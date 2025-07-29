@@ -14,3 +14,8 @@ Additional information:
 * The score is displayed at the top of the screen.
 * Ball bounces off the walls and paddles are signaled by sounds.
 * The code uses the Game_Settings.py configuration file to store game constants (sizes, colors, speeds, etc.).
+
+  <img width="802" height="628" alt="image" src="https://github.com/user-attachments/assets/19fffa9a-9df8-4f91-9b0b-e0d19a06841b" />
+  
+  <img width="803" height="635" alt="image" src="https://github.com/user-attachments/assets/8edbd733-10e1-4689-8f5d-d39994468093" />
+
